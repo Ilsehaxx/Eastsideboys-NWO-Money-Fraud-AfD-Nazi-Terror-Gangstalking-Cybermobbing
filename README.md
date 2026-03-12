@@ -33,3 +33,10 @@ This repository documents allegations of a Russian GRU (Main Intelligence Direct
 
 ## Disclaimer
 This information is based on publicly available reports and allegations. No definitive proof of a direct GRU operation in Germany has been confirmed in open sources. This repository serves as a compilation for research purposes.
+
+## Translations
+- [German (Deutsch)](README_DE.md)
+- [Spanish (Español)](README_SP.md)
+- [Polish (Polski)](README_PO.md)
+- [Italian (Italiano)](README_IN.md)
+- [Sanskrit (संस्कृत)](README_SS.md)
