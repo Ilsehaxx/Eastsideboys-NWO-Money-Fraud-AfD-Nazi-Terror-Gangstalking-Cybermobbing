@@ -32,6 +32,11 @@ Eastsideboyz is a German rap collective focused on Eastern German (Ossi) culture
 - Besoffen im Osten: 13,526,585
 - Traumhaft: 15,394,284
 
+>> Leader of Simson Nazi Gang <<
+Finn Leon Kramer, Rilkestraße 8, 31228 Peine
+Lower Saxony
+GERMANY
+
 Total monthly listeners for ArniTheSavage: ~922,798
 
 ## Money Flows
