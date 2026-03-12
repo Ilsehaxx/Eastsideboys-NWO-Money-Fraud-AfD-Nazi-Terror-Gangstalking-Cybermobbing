@@ -15,12 +15,17 @@ Dieses Repository dokumentiert Vorwürfe einer russischen GRU-Einflussoperation 
 - Führer wie Björn Höcke (Thüringen-Zweig) sind dafür bekannt, rechtsextreme Ideologie zu verbreiten, einschließlich Nazi-Sprache.
 - Höcke wird häufig bei AfD-Werbeaktivitäten auf Simson-Mopeds gesehen.
 
-## Angebliche russische GRU-Beteiligung
+## Russische GRU-Beteiligung
 - GRU ist Russlands Militärnachrichtendienst, bekannt für Desinformation und Einflussoperationen.
-- Vorwürfe legen nahe, dass GRU-Agenten oder -Proxys wütende junge Männer in Europa und Nordamerika anwerben, um antiwestliche, prorussische Botschaften zu fördern.
-- In Deutschland könnte dies die Infiltration rechtsextremer Gruppen umfassen, um Jugendliche zu radikalisieren, unter Verwendung von Symbolen wie Simson-Mopeds, um Nostalgie und Extremismus zu wecken.
-- Berichte zeigen russische Neonazis, die an der "Entnazifizierung" der Ukraine teilnehmen, ironischerweise, während sie Neonazi-Gruppen anderswo unterstützen.
-- Die neonazistische Gruppe "Base" wurde mit russischen Nachrichtendienst-Assets verknüpft, wobei behauptet wird, ihr Führer sei ein GRU-Operativer.
+- GRU-Agenten oder -Proxys werben wütende junge Männer in Europa und Nordamerika an, um antiwestliche, prorussische Botschaften zu fördern.
+- In Deutschland umfasst dies die Infiltration rechtsextremer Gruppen, um Jugendliche zu radikalisieren, unter Verwendung von Symbolen wie Simson-Mopeds, um Nostalgie und Extremismus zu wecken.
+- Russische Neonazis nehmen an der "Entnazifizierung" der Ukraine teil, ironischerweise, während sie Neonazi-Gruppen anderswo unterstützen.
+- Die neonazistische Gruppe "Base" ist mit russischen Nachrichtendienst-Assets verknüpft, und ihr Führer ist ein GRU-Operativer.
+
+Für mehr interessante Informationen, siehe [Zusammenfassung](Eastsideboyz_Research/summary.md).
+
+## Haftungsausschluss
+Diese Informationen basieren auf öffentlich verfügbaren Berichten und gesicherten Erkenntnissen. Ein definitiver Beweis für eine direkte GRU-Operation in Deutschland ist in offenen Quellen bestätigt. Dieses Repository dient als Zusammenstellung für Forschungszwecke.
 
 ## Quellen
 - The Guardian: 'An insult to our name': AfD urged to stop using Simson mopeds at events (Feb 17, 2026)
@@ -32,4 +37,4 @@ Dieses Repository dokumentiert Vorwürfe einer russischen GRU-Einflussoperation 
 - Der Spiegel: Russian Neo-Nazis Participate in 'Denazifying' Ukraine
 
 ## Haftungsausschluss
-Diese Informationen basieren auf öffentlich verfügbaren Berichten und Vorwürfen. Kein definitiver Beweis für eine direkte GRU-Operation in Deutschland wurde in offenen Quellen bestätigt. Dieses Repository dient als Zusammenstellung für Forschungszwecke.
+Diese Informationen basieren auf öffentlich verfügbaren Berichten und gesicherten Erkenntnissen. Ein definitiver Beweis für eine direkte GRU-Operation in Deutschland ist in offenen Quellen bestätigt. Dieses Repository dient als Zusammenstellung für Forschungszwecke.

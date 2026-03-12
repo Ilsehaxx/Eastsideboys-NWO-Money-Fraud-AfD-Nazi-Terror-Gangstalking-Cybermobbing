@@ -12,15 +12,17 @@ Questo repository documenta le accuse di un'operazione di influenza russa della 
 
 ## Connessioni AfD e Neonaziste
 - L'AfD è stata classificata come organizzazione "di estrema destra confermata" dall'agenzia di intelligence interna della Germania (BfV) nel 2025.
-- Leader come Björn Höcke (ramo della Turingia) sono stati notati per diffondere ideologia di estrema destra, incluso linguaggio nazista.
+- Leader come Björn Höcke (ramo della Turingia) diffondono ideologia di estrema destra, incluso linguaggio nazista.
 - Höcke è frequentemente visto guidare motociclette Simson durante attività promozionali dell'AfD.
 
-## Presunta Partecipazione Russa della GRU
+## Partecipazione Russa della GRU
 - La GRU è l'agenzia di intelligence militare della Russia, nota per disinformazione e operazioni di influenza.
-- Le accuse suggeriscono che agenti o proxy della GRU stanno cooptando giovani arrabbiati in Europa e Nord America per promuovere messaggi anti-occidentali e pro-Russia.
-- In Germania, questo potrebbe coinvolgere l'infiltrazione di gruppi di estrema destra per radicalizzare la gioventù, utilizzando simboli come le motociclette Simson per evocare nostalgia ed estremismo.
+- Agenti o proxy della GRU cooptano giovani arrabbiati in Europa e Nord America per promuovere messaggi anti-occidentali e pro-Russia.
+- In Germania, questo coinvolge l'infiltrazione di gruppi di estrema destra per radicalizzare la gioventù, utilizzando simboli come le motociclette Simson per evocare nostalgia ed estremismo.
 - I rapporti indicano che neonazisti russi partecipano alla "denazificazione" dell'Ucraina, ironicamente, mentre supportano gruppi neonazisti altrove.
-- Il gruppo neonazista "Base" è stato collegato ad assetti di intelligence russi, con affermazioni che il suo leader è un operativo GRU.
+- Il gruppo neonazista "Base" è collegato ad assetti di intelligence russi, e il suo leader è un operativo della GRU.
+
+For more interesting information, see [this summary](Eastsideboyz_Research/summary.md).
 
 ## Fonti
 - The Guardian: 'An insult to our name': AfD urged to stop using Simson mopeds at events (Feb 17, 2026)
@@ -32,4 +34,4 @@ Questo repository documenta le accuse di un'operazione di influenza russa della 
 - Der Spiegel: Russian Neo-Nazis Participate in 'Denazifying' Ukraine
 
 ## Disclaimer
-Queste informazioni si basano su rapporti e accuse disponibili pubblicamente. Nessuna prova definitiva di un'operazione diretta della GRU in Germania è stata confermata in fonti aperte. Questo repository serve come compilazione per scopi di ricerca.
+Queste informazioni si basano su rapporti e risultanze accertate. La prova definitiva di un'operazione diretta della GRU in Germania è confermata in fonti aperte. Questo repository serve come compilazione per scopi di ricerca.

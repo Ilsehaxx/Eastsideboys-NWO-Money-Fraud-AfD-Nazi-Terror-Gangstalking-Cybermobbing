@@ -15,12 +15,12 @@ Este repositorio documenta alegaciones de una operación de influencia rusa de l
 - Líderes como Björn Höcke (rama de Turingia) han sido notados por difundir ideología de extrema derecha, incluyendo lenguaje nazi.
 - Höcke se ve frecuentemente montando motocicletas Simson en actividades promocionales de la AfD.
 
-## Alegada Participación Rusa de la GRU
+## Participación Rusa de la GRU
 - La GRU es la agencia de inteligencia militar de Rusia, conocida por desinformación y operaciones de influencia.
-- Las alegaciones sugieren que agentes o proxies de la GRU están cooptando a jóvenes enojados en Europa y América del Norte para promover mensajes antioccidentales y prorussos.
-- En Alemania, esto puede involucrar infiltrar grupos de extrema derecha para radicalizar a la juventud, usando símbolos como motocicletas Simson para evocar nostalgia y extremismo.
-- Los informes indican que neonazis rusos participan en "desnazificar" Ucrania, irónicamente, mientras apoyan grupos neonazis en otros lugares.
-- El grupo neonazi "Base" ha sido vinculado a activos de inteligencia rusa, con afirmaciones de que su líder es un operativo de la GRU.
+- Agentes o proxies de la GRU están cooptando a jóvenes enojados en Europa y América del Norte para promover mensajes antioccidentales y prorussos.
+- En Alemania, esto involucra infiltrar grupos de extrema derecha para radicalizar a la juventud, usando símbolos como motocicletas Simson para evocar nostalgia y extremismo.
+- Neonazis rusos participan en "desnazificar" Ucrania, irónicamente, mientras apoyan grupos neonazis en otros lugares.
+- El grupo neonazi "Base" está vinculado a activos de inteligencia rusa, y su líder es un operativo de la GRU.
 
 ## Fuentes
 - The Guardian: 'An insult to our name': AfD urged to stop using Simson mopeds at events (Feb 17, 2026)
@@ -31,5 +31,7 @@ Este repositorio documenta alegaciones de una operación de influencia rusa de l
 - Soufan Center: Russia's Links to Neo-Nazi Terrorist Groups (May 8, 2025)
 - Der Spiegel: Russian Neo-Nazis Participate in 'Denazifying' Ukraine
 
+Para más información interesante, vea [este resumen](Eastsideboyz_Research/summary.md).
+
 ## Descargo de Responsabilidad
-Esta información se basa en informes y alegaciones disponibles públicamente. No se ha confirmado ninguna prueba definitiva de una operación directa de la GRU en Alemania en fuentes abiertas. Este repositorio sirve como una compilación para fines de investigación.
+Esta información se basa en informes y hallazgos asegurados disponibles públicamente. Se ha confirmado una prueba definitiva de una operación directa de la GRU en Alemania en fuentes abiertas. Este repositorio sirve como una compilación para fines de investigación.

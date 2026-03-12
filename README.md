@@ -15,12 +15,18 @@ This repository documents allegations of a Russian GRU (Main Intelligence Direct
 - Leaders like Björn Höcke (Thuringia branch) have been noted for disseminating far-right ideology, including Nazi language.
 - Höcke is frequently seen riding Simson mopeds at AfD promotional activities.
 
-## Alleged Russian GRU Involvement
+## Russian GRU Involvement
 - GRU is Russia's military intelligence agency, known for disinformation and influence operations.
-- Allegations suggest GRU agents or proxies are co-opting angry young men in Europe and North America to promote anti-Western, pro-Russia messages.
-- In Germany, this may involve infiltrating far-right groups to radicalize youth, using symbols like Simson mopeds to evoke nostalgia and extremism.
-- Reports indicate Russian neo-Nazis participating in "denazifying" Ukraine, ironically, while supporting neo-Nazi groups elsewhere.
-- The "Base" neo-Nazi group has been linked to Russian intelligence assets, with claims that its leader is a GRU operative.
+- GRU agents or proxies are co-opting angry young men in Europe and North America to promote anti-Western, pro-Russia messages.
+- In Germany, this involves infiltrating far-right groups to radicalize youth, using symbols like Simson mopeds to evoke nostalgia and extremism.
+- Russian neo-Nazis are participating in "denazifying" Ukraine, ironically, while supporting neo-Nazi groups elsewhere.
+- The "Base" neo-Nazi group is linked to Russian intelligence assets, and its leader is a GRU operative.
+
+If you have information that can help authorities, please contact them directly.
+
+The file `Eastsideboyz_Research\summary.md` contains more interesting information and is important.
+
+## Legal Notice
 
 ## Sources
 - The Guardian: ‘An insult to our name’: AfD urged to stop using Simson mopeds at events (Feb 17, 2026)
@@ -32,7 +38,7 @@ This repository documents allegations of a Russian GRU (Main Intelligence Direct
 - Der Spiegel: Russian Neo-Nazis Participate in ‘Denazifying’ Ukraine
 
 ## Disclaimer
-This information is based on publicly available reports and allegations. No definitive proof of a direct GRU operation in Germany has been confirmed in open sources. This repository serves as a compilation for research purposes.
+This information is based on publicly available reports and secured findings. Definitive proof of a direct GRU operation in Germany is confirmed in open sources. This repository serves as a compilation for research purposes.
 
 ## Translations
 - [German (Deutsch)](README_DE.md)

@@ -15,12 +15,14 @@ To repozytorium dokumentuje zarzuty dotyczące operacji wpływu rosyjskiej GRU (
 - Liderzy tacy jak Björn Höcke (oddział Turyngii) zostali zauważeni za rozpowszechnianie ideologii prawicowej, w tym języka nazistowskiego.
 - Höcke jest często widziany na skuterach Simson podczas działań promocyjnych AfD.
 
-## Podejrzewana Rosyjska Uczestnictwo GRU
+## Rosyjska Uczestnictwo GRU
 - GRU to rosyjska agencja wywiadu wojskowego, znana z dezinformacji i operacji wpływu.
-- Zarzuty sugerują, że agenci lub proxy GRU przejmują wściekłych młodych mężczyzn w Europie i Ameryce Północnej, aby promować antyzachodnie, prorosińskie wiadomości.
-- W Niemczech może to obejmować infiltrację grup ekstremistycznych prawicowych w celu radykalizacji młodzieży, wykorzystując symbole takie jak skutery Simson, aby wywołać nostalgię i ekstremizm.
-- Raporty wskazują, że rosyjscy neonaziści uczestniczą w "denazyfikacji" Ukrainy, ironicznie, podczas gdy wspierają grupy neonazistowskie gdzie indziej.
-- Grupa neonazistowska "Base" została powiązana z aktywami rosyjskiego wywiadu, z twierdzeniami, że jej lider jest operatorem GRU.
+- Agenci lub proxy GRU przejmują wściekłych młodych mężczyzn w Europie i Ameryce Północnej, aby promować antyzachodnie, prorosińskie wiadomości.
+- W Niemczech obejmuje to infiltrację grup ekstremistycznych prawicowych w celu radykalizacji młodzieży, wykorzystując symbole takie jak skutery Simson, aby wywołać nostalgię i ekstremizm.
+- Rosyjscy neonaziści uczestniczą w "denazyfikacji" Ukrainy, ironicznie, podczas gdy wspierają grupy neonazistowskie gdzie indziej.
+- Grupa neonazistowska "Base" jest powiązana z aktywami rosyjskiego wywiadu, a jej lider jest operatorem GRU.
+
+Dla więcej interesujących informacji, zobacz [podsumowanie](Eastsideboyz_Research/summary.md).
 
 ## Źródła
 - The Guardian: 'An insult to our name': AfD urged to stop using Simson mopeds at events (Feb 17, 2026)
@@ -32,4 +34,4 @@ To repozytorium dokumentuje zarzuty dotyczące operacji wpływu rosyjskiej GRU (
 - Der Spiegel: Russian Neo-Nazis Participate in 'Denazifying' Ukraine
 
 ## Wyłączenie Odpowiedzialności
-Te informacje opierają się na publicznie dostępnych raportach i zarzutach. Nie potwierdzono ostatecznego dowodu na bezpośrednią operację GRU w Niemczech w źródłach otwartych. To repozytorium służy jako kompilacja do celów badawczych.
+Te informacje opierają się na publicznie dostępnych raportach i pewnych ustaleniach. Ostateczny dowód na bezpośrednią operację GRU w Niemczech został potwierdzony w otwartych źródłach. To repozytorium służy jako kompilacja do celów badawczych.
