@@ -13,13 +13,17 @@ Eastsideboyz is a German rap collective focused on Eastern German (Ossi) culture
 - HellTekk.offiziell (producer, collaborator)
 - ArniMakeItDrop (producer alias)
 
-## All Songs (Eastsideboyz Sampler 1)
-1. Allstarz - ArniTheSavage, Dasco44, JSTN, Schillah, SII2, SKETCH
-2. Es eskaliert - ArniTheSavage, JSTN, Schillah
-3. Speeddiät - ArniTheSavage, JSTN
-4. Nur Techno - ArniTheSavage
-5. Drogenmissbrauch - ArniTheSavage, Dasco44, HellTekk.offiziell
-6. Cocaine - ArniTheSavage, Dasco44
+## All Songs (Eastsideboyz Sampler 1 - 10 tracks, 2024)
+1. Allstarz - ArniTheSavage, Dasco44, JSTN, Schillah, SII2, SKETCH (2:35)
+2. Es eskaliert - ArniTheSavage, JSTN, Schillah (2:42)
+3. Speeddiät - ArniTheSavage, JSTN (1:59)
+4. Kokainader - ArniTheSavage, JSTN, SKETCH (2:32)
+5. Weiße Weste - ArniTheSavage, Dasco44, SKETCH (2:34)
+6. Nur Techno - ArniTheSavage (2:29)
+7. Drogenmissbrauch - ArniTheSavage, Dasco44, HellTekk.offiziell (2:37)
+8. Cocaine - ArniTheSavage, Dasco44 (2:34)
+9. Traumhaft - ArniTheSavage (2:34)
+10. Fick die Welt - ArniTheSavage, Schillah (2:35)
 
 ## Streaming Numbers (from Spotify)
 - Es eskaliert: 43,284,483 streams
